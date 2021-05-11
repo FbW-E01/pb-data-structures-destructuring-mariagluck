@@ -30,10 +30,8 @@ const HalloweenCostumes = {
 
 };
 
-const { fran } =  HalloweenCostumes;
-const { Jenny } = HalloweenCostumes;
-const { Juan } =  HalloweenCostumes;
-const { Lisa } =  HalloweenCostumes;
+
+const { fran, Jenny, Juan, Lisa } = HalloweenCostumes;
 
 console.log(fran);
 console.log(Jenny);
@@ -41,7 +39,8 @@ console.log(Juan);
 console.log(Lisa);
 
 //ANSWER:
-// IT PRINTS: witch
+// IT PRINTS: 
+// witch
 // DeviceLightEvent
 // Scheleton
 // gosht
